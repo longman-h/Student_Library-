@@ -35,7 +35,6 @@ namespace StudentLibrary
             get { return studentCount; }
         }
 
-        // Default constructor
         public Student()
         {
             name = "John Doe";
